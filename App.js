@@ -8,7 +8,7 @@ import ListScreen from './screens/ListScreen';
 import NewListScreen from './screens/NewListScreen';
 import TaskListScreen from './screens/TaskListScreen';
 import theme from './theme';
-
+ 
 const Stack = createNativeStackNavigator();
 
 export default function App() {
